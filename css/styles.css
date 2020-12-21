@@ -4,6 +4,11 @@
   /* font-size: 40px; */
 }
 
+.b-day {
+  font-size: 35px;
+  text-align: center;
+}
+
 .field {
   display: flex;
   flex-direction: column;
